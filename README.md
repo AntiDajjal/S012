@@ -13,8 +13,8 @@ A network reconnaissance tool that leverages the Shodan search engine for author
 ## Installation
 
 ```bash
-git clone https://github.com/Antidajjal/S012-Shodan-Scanner.git
-cd S012-Shodan-Scanner
+git clone https://github.com/Antidajjal/S012.git
+cd S012
 pip install -r requirements.txt
 ```
 
@@ -271,5 +271,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/Antidajjal/S012-Shodan-Scanner/issues)
+- Issues: [GitHub Issues](https://github.com/Antidajjal/S012/issues)
 - Website: [m012.info](https://m012.info)
